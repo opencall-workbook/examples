@@ -1,7 +1,7 @@
 # Harmonia
 Project title: _Theory of electronic, magnetic and optical properties of semiconducting nanostructures with random spin-orbit field_. 
 
-This project won a grant from the National Center of Science in 2008.
+This project won a grant from the National Center of Science in 2012.
 
 This folder contains an example showing how to write the project proposal using the OpenCall Workbook format. 
 It is a compilation of the documents, which have been submitted as an application for a research grant in Poland in 2007. 
